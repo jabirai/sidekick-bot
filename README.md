@@ -1,4 +1,4 @@
-# 🚀 Revolutionizing Enterprise Data with AWS Bedrock, PDFs, VectorDB, and RAG
+# Enterprise Data with AWS Bedrock, PDFs, VectorDB, and RAG
 
 Unstructured data is everywhere—locked inside PDFs, JSON files, and other document formats. But how can enterprises transform this data into actionable insights?
 
@@ -6,7 +6,7 @@ This project presents a **dual-platform, end-to-end solution** built on AWS, ena
 
 ---
 
-## 💡 Key Components
+##  Key Components
 
 ### 1. **Client Application**
 A user-friendly interface where users can ask natural language questions about their documents.
@@ -25,7 +25,7 @@ A powerful backend interface for data ingestion and vector indexing.
 
 ---
 
-## 🔍 Why This Is a Game-Changer
+## Properties
 
 ✅ **Serverless AI via AWS Bedrock**: Harness the power of cutting-edge LLMs without managing infrastructure  
 ✅ **Robust Document Processing**: No data left behind—scanned or native documents supported  
@@ -35,7 +35,7 @@ A powerful backend interface for data ingestion and vector indexing.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **AWS Bedrock** (LLMs & embeddings)
 - **FAISS** (Vector DB)
@@ -47,7 +47,7 @@ A powerful backend interface for data ingestion and vector indexing.
 
 ---
 
-## 📦 Architecture Overview
+## Architecture Overview
 
 ```
 
@@ -63,7 +63,7 @@ Client Portal ◀── RAG-based Question Answering
 
 ---
 
-## 🧪 Example Use Cases
+## Example Use Cases
 
 - Legal document Q&A
 - Research paper summarization
@@ -72,7 +72,7 @@ Client Portal ◀── RAG-based Question Answering
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 Both portals are:
 
@@ -82,7 +82,7 @@ Both portals are:
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 
 ![Enterprise Data Pipeline Screenshot](https://github.com/user-attachments/assets/3ef7d933-88cc-458d-9d2f-768c3466447e)
 
