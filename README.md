@@ -27,11 +27,11 @@ A powerful backend interface for data ingestion and vector indexing.
 
 ## Properties
 
-✅ **Serverless AI via AWS Bedrock**: Harness the power of cutting-edge LLMs without managing infrastructure  
-✅ **Robust Document Processing**: No data left behind—scanned or native documents supported  
-✅ **VectorDB in S3**: High-performance semantic search over huge datasets  
-✅ **RAG-powered Accuracy**: Context-rich retrieval combined with generation ensures relevant, reliable outputs  
-✅ **Fully Dockerized**: Both portals are containerized and deployed on AWS EC2 for scalability and ease of maintenance  
+**Serverless AI via AWS Bedrock**: Harness the power of cutting-edge LLMs without managing infrastructure  
+**Robust Document Processing**: No data left behind—scanned or native documents supported  
+**VectorDB in S3**: High-performance semantic search over huge datasets  
+**RAG-powered Accuracy**: Context-rich retrieval combined with generation ensures relevant, reliable outputs  
+**Fully Dockerized**: Both portals are containerized and deployed on AWS EC2 for scalability and ease of maintenance  
 
 ---
 
@@ -76,9 +76,9 @@ Client Portal ◀── RAG-based Question Answering
 
 Both portals are:
 
-- ✅ Dockerized and published to DockerHub
-- ✅ Hosted on EC2 instances
-- ✅ Designed for scalability and security
+- Dockerized and published to DockerHub
+- Hosted on EC2 instances
+- Designed for scalability and security
 
 ---
 
