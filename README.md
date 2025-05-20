@@ -1,11 +1,12 @@
-Revolutionizing Enterprise Data with AWS Bedrock, PDFs, VectorDB, and RAG
+**Revolutionizing Enterprise Data with AWS Bedrock, PDFs, VectorDB, and RAG
+**
 
 Data is everywhere—hidden in PDFs, JSON files, and other documents. But how do you make sense of it all? Enter AWS Bedrock, VectorDB stored in S3, and the Retrieval-Augmented Generation (RAG) approach! 
 
 Recently, we built a robust dual-platform solution:
-1) Client Application: A user-friendly interface where you can ask questions about your data, powered by cutting-edge LLMs like Anthropic Claude and Titan Embeddings. This platform makes document understanding and Q&A seamless.
+1) **Client Application**: A user-friendly interface where you can ask questions about your data, powered by cutting-edge LLMs like Anthropic Claude and Titan Embeddings. This platform makes document understanding and Q&A seamless.
 
-2) Admin Portal: A dynamic tool to preprocess data. Upload PDFs or JSON files, extract their content, split them into manageable chunks, and create FAISS-based VectorDBs stored in S3 buckets.
+2) **Admin Portal**: A dynamic tool to preprocess data. Upload PDFs or JSON files, extract their content, split them into manageable chunks, and create FAISS-based VectorDBs stored in S3 buckets.
 
 Here’s what makes this solution a game-changer:
   1. AWS Bedrock drives high-performance, serverless AI capabilities.
